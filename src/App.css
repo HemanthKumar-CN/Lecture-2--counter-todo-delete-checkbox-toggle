@@ -1,11 +1,25 @@
 .App {
   text-align: center;
+  
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
+
+.header
+{
+  color: blue;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.find
+{
+  border: 1px solid red;
+}
+
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
